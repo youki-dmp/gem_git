@@ -1,0 +1,14 @@
+node_modules/
+.env
+.env.*
+*.log
+.DS_Store
+dist/
+build/
+.config/
+credentials/
+*key*
+*token*
+*secret*
+config.json
+auth.json
